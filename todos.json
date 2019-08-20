@@ -1,0 +1,31 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Study React basic concepts",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Play todolist tutorial with React",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Do tictactoe tutorial with React",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Read Advanced Guides",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Compare React with Angular",
+      "completed": false
+    }
+  ],
+  "users": [{ "id": 1, "name": "hieu" }, { "id": 2, "name": "dung" }],
+  "tasks": [{ "id": 1, "name": "react" }]
+}
